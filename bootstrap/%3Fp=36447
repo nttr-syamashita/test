@@ -1,0 +1,1424 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
+<head>
+    <!--[if lt IE 9]>
+        <script src="https://themewagon.com/wp-content/themes/wagoncore/js/html5shiv.min.js"></script>
+        <script src="https://themewagon.com/wp-content/themes/wagoncore/js/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- meta -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="msvalidate.01" content="5FCF8B779D34832FE2D36DFB6C126940" />
+    <meta name="p:domain_verify" content="68d35eb0ac63d3477701ce6c902bd227"/>
+
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/icons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/icons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/icons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/icons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/icons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/icons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/icons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/icons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/icons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/icons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/icons/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Wordpress -->
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://themewagon.com/xmlrpc.php">
+    <meta property="fb:app_id" content="894999323927740" />
+
+
+    <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-55162400-1', 'auto');
+        ga('require', 'ec');
+    </script>
+
+
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '146499149130432');
+    fbq('track', "PageView");</script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=146499149130432&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+
+
+    
+    
+<!-- This site is optimized with the Yoast SEO plugin v4.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>High Quality Free Responsive Blogging Template with HTML5 and Bootstrap</title>
+<meta name="description" content="There is a lot of free responsive blogging template on the web.But not all of them are good as a premium one.Here is a good blog template for you -Massively"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://themewagon.com/themes/free-responsive-html5-bootstrap-blogging-template/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="High Quality Free Responsive Blogging Template with HTML5 and Bootstrap" />
+<meta property="og:description" content="There is a lot of free responsive blogging template on the web.But not all of them are good as a premium one.Here is a good blog template for you -Massively" />
+<meta property="og:url" content="https://themewagon.com/themes/free-responsive-html5-bootstrap-blogging-template/" />
+<meta property="og:site_name" content="Free Bootstrap Themes &amp; Templates for Responsive HTML5 Websites" />
+<meta property="article:publisher" content="https://www.facebook.com/themewagon/" />
+<meta property="og:image" content="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/featured.png" />
+<meta property="og:image:width" content="750" />
+<meta property="og:image:height" content="460" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="There is a lot of free responsive blogging template on the web.But not all of them are good as a premium one.Here is a good blog template for you -Massively" />
+<meta name="twitter:title" content="High Quality Free Responsive Blogging Template with HTML5 and Bootstrap" />
+<meta name="twitter:site" content="@themewagon" />
+<meta name="twitter:image" content="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/featured.png" />
+<meta name="twitter:creator" content="@themewagon" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Free Bootstrap Themes &amp; Templates for Responsive HTML5 Websites &raquo; Feed" href="https://themewagon.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Free Bootstrap Themes &amp; Templates for Responsive HTML5 Websites &raquo; Comments Feed" href="https://themewagon.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Free Bootstrap Themes &amp; Templates for Responsive HTML5 Websites &raquo; Massively Comments Feed" href="https://themewagon.com/themes/free-responsive-html5-bootstrap-blogging-template/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/themewagon.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='affwp-forms-group-css' href='https://themewagon.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/AffiliateWP/assets/css/forms.min.css,wp-content/plugins/contact-form-7/includes/css/styles.css,wp-content/plugins/easy-digital-downloads/templates/edd.min.css,wp-content/plugins/wp-postratings/css/postratings-css.css,wp-content/plugins/ultimate-social-deux/public/assets/css/style.css,wp-content/themes/wagoncore/css/framework.css,wp-content/themes/wagoncore/style.css,wp-content/themes/themewagon/style.css,wp-content/plugins/rich-reviews/css/rich-reviews.css&#038;ver=1529587573' type='text/css' media='all' />
+<link rel='stylesheet' id='font-roboto-css'  href='//fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C700&#038;ver=4.7.2' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js?ver=2.1.3'></script>
+<link rel='https://api.w.org/' href='https://themewagon.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://themewagon.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://themewagon.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.2" />
+<link rel='shortlink' href='https://themewagon.com/?p=36447' />
+<link rel="alternate" type="application/json+oembed" href="https://themewagon.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthemewagon.com%2Fthemes%2Ffree-responsive-html5-bootstrap-blogging-template%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://themewagon.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fthemewagon.com%2Fthemes%2Ffree-responsive-html5-bootstrap-blogging-template%2F&#038;format=xml" />
+<meta name="generator" content="Easy Digital Downloads v2.6.17" />
+			<script type="text/javascript">
+			    var moreText = "Read More";
+			    var lessText = "Show Less";
+			    var excerptLength = 509;
+			</script>
+				<script type="text/javascript">
+		var AFFWP = AFFWP || {};
+		AFFWP.referral_var = 'ref';
+		AFFWP.expiration = 90;
+		AFFWP.debug = 0;
+
+		AFFWP.referral_credit_last = 0;
+		</script>
+<style type="text/css">.us_sticky .us_wrapper{background-color:#ffffff;}.us_floating .us_wrapper .us_button{width:45px;-webkit-transition:width 1000ms ease-in-out,background-color 400ms ease-out;-moz-transition:width 1000ms ease-in-out,background-color 400ms ease-out;-o-transition:width 1000ms ease-in-out,background-color 400ms ease-out;transition:width 1000ms ease-in-out,background-color 400ms ease-out;}.us_floating .us_wrapper .us_button:hover{width:90px;-webkit-transition:width 1000ms ease-in-out,background-color 400ms ease-out;-moz-transition:width 1000ms ease-in-out,background-color 400ms ease-out;-o-transition:width 1000ms ease-in-out,background-color 400ms ease-out;transition:width 1000ms ease-in-out,background-color 400ms ease-out;}.us_facebook{background-color:#3b5998;}.us_facebook:hover{background-color:#008000;}.us_twitter{background-color:#00ABF0;}.us_twitter:hover{background-color:#008000;}.us_google{background-color:#D95232;}.us_google:hover{background-color:#008000;}.us_delicious{background-color:#66B2FD;}.us_delicious:hover{background-color:#008000;}.us_stumble{background-color:#E94B24;}.us_stumble:hover{background-color:#008000;}.us_linkedin{background-color:#1C86BC;}.us_linkedin:hover{background-color:#008000;}.us_pinterest{background-color:#AE181F;}.us_pinterest:hover{background-color:#008000;}.us_buffer{background-color:#000000;}.us_buffer:hover{background-color:#008000;}.us_reddit{background-color:#CEE3F8;}.us_reddit:hover{background-color:#008000;}.us_vkontakte{background-color:#537599;}.us_vkontakte:hover{background-color:#008000;}.us_mail{background-color:#666666;}.us_mail:hover{background-color:#008000;}.us_love{background-color:#FF0000;}.us_love:hover{background-color:#008000;}.us_pocket{background-color:#ee4056;}.us_pocket:hover{background-color:#008000;}.us_tumblr{background-color:#529ecc;}.us_tumblr:hover{background-color:#008000;}.us_print{background-color:#60d0d4;}.us_print:hover{background-color:#008000;}.us_flipboard{background-color:#c10000;}.us_flipboard:hover{background-color:#008000;}.us_comments{background-color:#b69823;}.us_comments:hover{background-color:#008000;}.us_feedly{background-color:#414141;}.us_feedly:hover{background-color:#008000;}.us_youtube:hover{background-color:#008000;}.us_youtube{background-color:#cc181e;}.us_vimeo{background-color:#1bb6ec;}.us_vimeo:hover{background-color:#008000;}.us_behance{background-color:#1769ff;}.us_behance:hover{background-color:#008000;}.us_ok{background-color:#f2720c;}.us_ok:hover{background-color:#008000;}.us_weibo{background-color:#e64141;}.us_weibo:hover{background-color:#008000;}.us_managewp{background-color:#098ae0;}.us_managewp:hover{background-color:#008000;}.us_xing{background-color:#026466;}.us_xing:hover{background-color:#008000;}.us_whatsapp{background-color:#34af23;}.us_whatsapp:hover{background-color:#008000;}.us_meneame{background-color:#ff6400;}.us_meneame:hover{background-color:#008000;}.us_digg{background-color:#000000;}.us_digg:hover{background-color:#008000;}.us_dribbble{background-color:#f72b7f;}.us_dribbble:hover{background-color:#008000;}.us_envato{background-color:#82b540;}.us_envato:hover{background-color:#008000;}.us_github{background-color:#201e1f;}.us_github:hover{background-color:#008000;}.us_soundcloud{background-color:#ff6f00;}.us_soundcloud:hover{background-color:#008000;}.us_instagram{background-color:#48769c;}.us_instagram:hover{background-color:#008000;}.us_feedpress{background-color:#ffafaf;}.us_feedpress:hover{background-color:#008000;}.us_mailchimp{background-color:#6dc5dc;}.us_mailchimp:hover{background-color:#008000;}.us_flickr{background-color:#0062dd;}.us_flickr:hover{background-color:#008000;}.us_members{background-color:#0ab071;}.us_members:hover{background-color:#008000;}.us_more{background-color:#53B27C;}.us_more:hover{background-color:#008000;}.us_posts{background-color:#924e2a;}.us_posts:hover{background-color:#008000;}.us_facebook a{color:#3b5998;}.us_facebook a:hover{color:#008000;}.us_twitter a{color:#00ABF0;}.us_twitter a:hover{color:#008000;}.us_google a{color:#D95232;}.us_google a:hover{color:#008000;}.us_delicious a{color:#66B2FD;}.us_delicious a:hover{color:#008000;}.us_stumble a{color:#E94B24;}.us_stumble a:hover{color:#008000;}.us_linkedin a{color:#1C86BC;}.us_linkedin a:hover{color:#008000;}.us_pinterest a{color:#AE181F;}.us_pinterest a:hover{color:#008000;}.us_buffer a{color:#000000;}.us_buffer a:hover{color:#008000;}.us_reddit a{color:#CEE3F8;}.us_reddit a:hover{color:#008000;}.us_vkontakte a{color:#537599;}.us_vkontakte a:hover{color:#008000;}.us_mail a{color:#666666;}.us_mail a:hover{color:#008000;}.us_love a,.us_love{color:#FF0000;}.us_love a:hover,.us_love:hover{color:#008000;}.us_pocket a{color:#ee4056;}.us_pocket a:hover{color:#008000;}.us_tumblr a{color:#529ecc;}.us_tumblr a:hover{color:#008000;}.us_print a{color:#60d0d4;}.us_print a:hover{color:#008000;}.us_flipboard a{color:#c10000;}.us_flipboard a:hover{color:#008000;}.us_comments a,.us_comments{color:#b69823;}.us_comments a:hover,.us_comments:hover{color:#008000;}.us_feedly a{color:#414141;}.us_feedly a:hover{color:#008000;}.us_youtube a{color:#cc181e;}.us_youtube a:hover{color:#008000;}.us_vimeo a{color:#1bb6ec;}.us_vimeo a:hover{color:#008000;}.us_behance a{color:#1769ff;}.us_behance a:hover{color:#008000;}.us_ok a{color:#f2720c;}.us_ok a:hover{color:#008000;}.us_weibo a{color:#e64141;}.us_weibo a:hover{color:#008000;}.us_managewp a{color:#098ae0;}.us_managewp a:hover{color:#008000;}.us_xing a{color:#026466;}.us_xing a:hover{color:#008000;}.us_whatsapp a{color:#34af23;}.us_whatsapp a:hover{color:#008000;}.us_meneame a{color:#ff6400;}.us_meneame a:hover{color:#008000;}.us_digg a{color:#000000;}.us_digg a:hover{color:#008000;}.us_dribbble a{ color:#f72b7f;}.us_dribbble a:hover{ color:#008000;}.us_envato a{color:#82b540;}.us_envato a:hover{color:#008000;}.us_github a{color:#201e1f;}.us_github a:hover{color:#008000;}.us_soundcloud a{color:#ff6f00;}.us_soundcloud a:hover{color:#008000;}.us_instagram a{color:#48769c;}.us_instagram a:hover{color:#008000;}.us_feedpress{color:#ffafaf;}.us_feedpress:hover{color:#008000;}.us_mailchimp{color:#6dc5dc;}.us_mailchimp:hover{color:#008000;}.us_flickr a{color:#0062dd;}.us_flickr a:hover{color:#008000;}.us_members{color:#0ab071;}.us_members:hover{color:#008000;}.us_more a{color:#53B27C;}.us_more a:hover{color:#008000;}.us_posts{color:#924e2a;}.us_posts:hover{color:#008000;}.us_wrapper .us_button{width:70px;}</style></head>
+<body class="themes-template-default single single-themes postid-36447 has-twpromo-top group-blog" data-spy="scroll" data-target="#jump-scroll-nav">
+    <!--[if lt IE 9]>
+        <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    
+
+    
+    <style type="text/css">
+        .has-twpromo-top {
+            padding-top: 44px;
+        }
+    </style>
+
+    <div class="twpromo-top">
+        <a href="https://themewagon.com/themes/template-collection-2017/?ref=twpromo-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 text-center">
+                        <h4>Get 100 HTML5 Templates in One Bundle FREE &xrarr;</h4>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+    
+    
+    <nav id="main-nav" class="navbar">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="https://themewagon.com/" title="Free Responsive Bootstrap Themes">
+                    <img src="https://d2zav2bjdlctd5.cloudfront.net/themes/themewagon/img/logo.png" alt="ThemeWagon Logo">
+                </a>
+            </div>
+
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+                <div class="navbar-form navbar-left" role="search">
+                    <meta itemprop="url" content="https://themewagon.com"/>
+                    <form class="site-search" role="search" method="get" action="https://themewagon.com/">
+                        <input itemprop="query-input" type="search" name="s" placeholder="" value="" required>
+                        <button type="submit" value="Search"><span class="ion-android-search"></span></button>
+                    </form>
+                </div>
+
+                <ul class="nav navbar-nav navbar-left">
+                                        <li class="">
+                        <a href="https://themewagon.com/submit-template/">Submit a free template</a>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    
+                    <li class="">
+                        <a href="/wagon_tickets"><i class="fa fa-heart"></i>&nbsp;&nbsp;Support</a>
+                    </li>
+                    <li>
+                        <a href="/blog">Blog</a>
+                    </li>
+
+                                        <li class="login_menu">
+                        <a href="/user-login"><i class="fa fa-lock"></i> Login</a>
+                    </li>
+                                                                            </ul>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
+    
+    <div class="header-second-menu-wrap hidden-xs">
+
+        <div class="header-second-menu-wrap">
+                        <div class="container header-second-menu"><ul class="nav nav-pills nav-centered"><li id="menu-item-1769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1769"><a href="https://themewagon.com/themes/">All Templates</a></li>
+<li id="menu-item-10166" class="menu-item menu-item-type-taxonomy menu-item-object-theme_category menu-item-10166"><a href="https://themewagon.com/theme-categories/premium-templates/">Popular Items</a></li>
+<li id="menu-item-18800" class="menu-item menu-item-type-taxonomy menu-item-object-theme_tag menu-item-18800"><a href="https://themewagon.com/theme_tag/free/">Free</a></li>
+<li id="menu-item-1775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1775"><a href="https://themewagon.com/theme_tag/quality-checked/?ref=topNav">Quality Checked</a></li>
+<li id="menu-item-49758" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49758"><a href="https://themewagon.com/themes/?sortby=download">Most Downloaded</a></li>
+<li id="menu-item-1779" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1779"><a href="https://themewagon.com/theme_tag/bootstrap-4-templates/">Bootstrap 4</a></li>
+<li id="menu-item-47894" class="menu-item menu-item-type-taxonomy menu-item-object-theme_category menu-item-47894"><a href="https://themewagon.com/theme-categories/admin-dashboard/">Admin &#038; Dashboard</a></li>
+<li id="menu-item-49757" class="menu-item menu-item-type-taxonomy menu-item-object-theme_category menu-item-49757"><a href="https://themewagon.com/theme-categories/business-corporate/">Business &#038; Corporate</a></li>
+<li id="menu-item-1780" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1780"><a href="https://themewagon.com/theme-categories/personal/">Personal</a></li>
+<li id="menu-item-26323" class="badge menu-item menu-item-type-custom menu-item-object-custom menu-item-26323"><a href="https://themewagon.com/themes/mega-discount-bundle/?ref=topNav">Flash Deal &#8211; 93% Off</a></li>
+</ul></div>        </div>
+    </div>
+
+
+<div id="pjax-container">
+
+<div itemscope itemtype="http://schema.org/Product">
+
+
+<script>
+// The product being viewed.
+ga('ec:addProduct', {                 // Provide product details in an productFieldObject.
+  'id': '36447',
+  'name': 'Massively',
+  'category': 'Free Templates'
+});
+</script>
+
+<section class="single-template-header" id="single-themes-header">
+    <div class="container">
+        <div class="row">
+            <div  class="col-md-8">
+                <h1 itemprop="name" class="template-title">Massively - Free Responsive Blogging HTML5 Bootstrap Template                    
+                                    </h1>
+
+                <div style="margin-bottom: 15px;">
+                    			
+								<span itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+					<span class="stars">
+						<img src="/wp-content/themes/wagoncore/img/stars/star-full.png"><img src="/wp-content/themes/wagoncore/img/stars/star-full.png"><img src="/wp-content/themes/wagoncore/img/stars/star-full.png"><img src="/wp-content/themes/wagoncore/img/stars/star-full.png"><img src="/wp-content/themes/wagoncore/img/stars/star-empty.png">					</span>
+					<span class="rating" itemprop="ratingValue" style="display: none !important;">
+						4					</span>
+					<a href="#customerReviews">
+					<span class="votes" itemprop="reviewCount">
+						1					</span> customer reviews</a>
+					<div style="display:none">
+						<span itemprop="bestRating">5</span>
+						<span itemprop="worstRating">1</span>
+					</div>
+				</span>
+
+				<style>
+		.stars, .rr_star {
+			color: #ffaf00;
+		}
+	</style>
+	                </div>
+
+                <span itemprop="description" style="display: none;">There is a lot of free responsive blogging template on the web.But not all of them are good as a premium one.Here is a good blog template for you -Massively</span>
+
+
+            </div>
+        </div>
+
+        <div class="row"><!-- template description container-->
+            <div class="col-md-8">
+                                
+                <a class="live-preview-area" target="_blank" href="http://demo.themewagon.com/preview/free-responsive-html5-bootstrap-blogging-template" title="See Live Preview">
+
+                    <div class="live-preview-icon">
+                        <img src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2016/08/live-preview-indicator.png" alt="">
+                    </div>
+
+                    <figure class="item-preview" id="item-preview">
+                        <img width="750" height="460" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/featured-30x18.png" data-lazy-type="image" data-lazy-src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/featured.png" class="lazy lazy-hidden img-responsive center-block wp-image-36450 wp-post-image" alt="Massively-a Free Responsive HTML5 Blogging Website Template" title="MassivelyFree Responsive Blogging HTML5 Bootstrap Template" itemprop="image" data-lazy-srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/featured.png 750w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/featured-239x146.png 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/featured-336x206.png 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/featured-30x18.png 30w" sizes="(max-width: 750px) 100vw, 750px" /><noscript><img width="750" height="460" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/featured.png" class="img-responsive center-block wp-image-36450 wp-post-image" alt="Massively-a Free Responsive HTML5 Blogging Website Template" title="MassivelyFree Responsive Blogging HTML5 Bootstrap Template" itemprop="image" srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/featured.png 750w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/featured-239x146.png 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/featured-336x206.png 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/featured-30x18.png 30w" sizes="(max-width: 750px) 100vw, 750px" /></noscript>                                            </figure>
+
+                    <div class="item-preview-footer">
+                        <div class="text-center">
+                            <span class="btn btn-preview btn-block free_preview btn-lg"><i class="ion-android-open"></i>  Live Preview</span>
+                        </div>
+                    </div>
+
+                </a>
+
+
+
+
+                <!-- main-content starts -->
+<div class="main-content">
+    <main class="theme-main-content">
+        <article class="single-theme-post">
+            <div class="post-content">
+                <p>In the last decade, <strong>Blogging</strong> has been a hot topic not only for creative writers and bloggers but also for small and medium <strong>business entrepreneurs</strong>. It&#8217;s because the blog is the most efficient platform to create own web communities as well as generating traffic, free marketing, and extra sales. Almost every online site page has a blog section included nowadays because of its necessary need. So, here we are. <a href="https://themewagon.com/" target="_blank">Themewagon</a> is introducing a brand new <a href="https://themewagon.com/theme_tag/free/" target="_blank">free responsive</a> blogging template for you.</p>
+<h2>Free Responsive Blogging Template</h2>
+<p>If you are a free thinker, who wants to let people know what&#8217;s going on your head or what you think about something or if you have a business about which you want to let people find out more or show more. It is <b>Massively</b> &#8211; a free <a href="https://themewagon.com/themes/posh-html5-bootstrap-4-template/" target="_blank">responsive website template</a> that comes with massive premium like features and nicely crafted with HTML5, <a href="http://getbootstrap.com/" target="_blank" rel="nofollow">Bootstrap</a>, CSS3. What are those massive features? We are going to talk about it. </p>
+<blockquote>
+<h4>Recommended:</h4>
+<p><a href="https://themewagon.com/themes/titan/" target = "_blank">Titan &#8211; Free HTML5 Template from ThemeWagon</a>
+</p></blockquote>
+<h2>Simple, Clean and Elegant Template</h2>
+<p>The first thing we are going to talk about Massively is its simple yet elegant and clean design. It is a free responsive blogging template that has an eye-catchy design with a simple layout and color scheme that surely make an impression on viewers mind. You can show your contents and posts in such a wonderful way that people are browsing your site will take a tour. It comes with a parallax background which is very much popular and also awesome. </p>
+<h2>Full Responsive and Mobile Friendly</h2>
+<p><img src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/responsive-30x18.jpg" data-lazy-type="image" data-lazy-src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/responsive.jpg" alt="Free Responsive Blogging Template" width="974" height="574" class="lazy lazy-hidden alignnone size-full wp-image-36452" data-lazy-srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/responsive.jpg 974w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/responsive-239x141.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/responsive-336x198.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/responsive-750x442.jpg 750w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/responsive-30x18.jpg 30w" sizes="(max-width: 974px) 100vw, 974px" /><noscript><img src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/responsive.jpg" alt="Free Responsive Blogging Template" width="974" height="574" class="alignnone size-full wp-image-36452" srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/responsive.jpg 974w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/responsive-239x141.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/responsive-336x198.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/responsive-750x442.jpg 750w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/05/responsive-30x18.jpg 30w" sizes="(max-width: 974px) 100vw, 974px" /></noscript></p>
+<p>Massively is a free HTML5 website template which is fully responsive and works fine on any devices. From the small screen mobile phones to the large screen desktop monitors &#8211; whatever the resolution is, Massively works correctly. Again Massively is a <strong>mobile-friendly</strong> template. Responsiveness and mobile friendliness are a must criteria for any website as maximum people browse from their <strong>phones</strong> or <strong>handheld devices</strong>. So, people browsing your site from mobiles or tabs will experience a whole site page if you use Massively &#8211; a free bootstrap template for your blogging site. But why believe me? Check for yourself the responsiveness on <a href="http://ami.responsivedesign.is/" target="_blank" rel="nofollow">Am I Responsive</a> and the mobile-friendly feature on <a href="https://search.google.com/search-console/mobile-friendly" target="_blank" rel="nofollow">Google Mobile-Friendly Test</a>  or from any of your devices. </p>
+<h2>Easy Customization, Well Documentation</h2>
+<p>Massively is a well-commented free <strong>responsive blogging template</strong>. All the sections have starting and ending tag with them. If you have no prior coding knowledge, then you don&#8217;t need one too. Because you can easily customize Massively with the good documentation. Just replace the images and texts with your ones and go live. But if you have even a little bit of coding knowledge, it will be a great advantage. You can add or delete any sections as you want and customize it the way you like it. So, go for Massively &#8211; a <a href="http://www.w3schools.com/html/" target="_blank" rel="nofollow">HTML5</a> free responsive blogging template with premium features. </p>
+<h2>SEO Friendly Bootstrap Template for Blog Sites</h2>
+<p>Massively &#8211; a free responsive blogging template comes with another great feature. It is <strong>SEO friendly</strong>. For a good website, SEO friendliness is a must. SEO means Search Engine (Google, Yahoo, Bing and other) Optimizations. When we search for a particular thing on the web, search engines show an infinite amount of related sites and topics. But we only go for those which are on the first page. So, if you have a site and want people to reach out to that site, it must be on the first page or indexed higher. SEO friendliness helps that out. To know more about SEO you can check <a href="https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf" target="_blank" rel="nofollow">Google SEO Friendly Guide</a>. As Massive is an SEO friendly free responsive blogging template, your site will rank higher on the search pages if you put your contents correctly. </p>
+<h2>Some Cool Features</h2>
+<ul class="special">
+<li>Clean Design</li>
+<li>Parallax Background/li>
+<li>Ghost Button</li>
+<li>Fully Responsive</li>
+<li>Super Customizable</li>
+<li>On Hover Zoom In</li>
+<li>Working Contact Form</li>
+<li>HTML5, CSS3, Bootstrap3</li>
+<li>Social Media Icons</li>
+<li>Font Awesome</li>
+<li>Hero Header</li>
+<li>Pagination for Multipage</li>
+<li>FontAwesome Icons</li>
+<li>Elements Page</li>
+</ul>
+<h2>Credit</h2>
+<p>Massively a free responsive blogging template was designed by <a href="https://themewagon.com/author/html5up/" target="_blank">html5up</a> team. Huge thanks to them. </p>
+<h2>Get More HTML5 Website Templates</h2>
+<p>There is a bunch of <a href="https://themewagon.com/theme_tag/free/" target="_blank">Free</a> and <a href="https://themewagon.com/theme-categories/premium-templates/" target="_blank">Premium</a> bootstrap templates in our site. Visit to see the amazing products that are commensurate your project. </p>
+            </div>
+
+            
+            <div class="bottom-social">
+                            </div>
+
+        </article>
+
+    </main>
+</div><!-- main-content end -->
+
+                <div class="customer-reviews-wrap sidebar-box">
+                    <h3 id="customerReviews">Customer reviews</h3>
+
+                    <div class="row">
+                        <div class="col-md-5">
+                            			
+			<div class="total-avg-reviews">
+				<span class="stars">
+					<img src="/wp-content/themes/wagoncore/img/stars/star-full.png"><img src="/wp-content/themes/wagoncore/img/stars/star-full.png"><img src="/wp-content/themes/wagoncore/img/stars/star-full.png"><img src="/wp-content/themes/wagoncore/img/stars/star-full.png"><img src="/wp-content/themes/wagoncore/img/stars/star-empty.png">				</span>
+				<span class="rating">
+					4 out of 5 stars
+				</span>
+				<br/>
+				<span class="votes">
+					Based on 1 reviews
+				</span></a>
+			</div>
+
+
+				<style>
+		.stars, .rr_star {
+			color: #ffaf00;
+		}
+	</style>
+	                        </div>
+                        <div class="col-md-7">
+                            <div class="add-new-review-wrap">
+                                <p>Share your thoughts with other customers</p>
+                                <button type="toggle" id="toggle-review-form" class="btn btn-amazon">Write a customer review</button>
+                                <div class="add-new-review-form" style="display: none">
+                                     <span id="state"></span> 		<form action="" method="post" enctype="multipart/form-data" class="rr_review_form">
+			<input type="hidden" name="submitted" value="Y" />
+			<input type="hidden" name="rRating" id="rRating" value="0" />
+			<table class="form_table">
+			
+	<tr class="rr_form_row">
+		<td class="rr_form_heading rr_required" >
+			Name		</td>
+		<td class="rr_form_input">
+			<span class="form-err"></span>
+			<input class="rr_small_input" type="text" name="rName" value=""  />
+		</td>
+	</tr>
+
+	<tr class="rr_form_row">
+		<td class="rr_form_heading " >
+			Email		</td>
+		<td class="rr_form_input">
+			<span class="form-err"></span>
+			<input class="rr_small_input" type="text" name="rEmail" value=""  />
+		</td>
+	</tr>
+
+	<tr class="rr_form_row">
+		<td class="rr_form_heading rr_required" >
+			Review Title		</td>
+		<td class="rr_form_input">
+			<span class="form-err"></span>
+			<input class="rr_small_input" type="text" name="rTitle" value=""  />
+		</td>
+	</tr>
+
+<tr class="rr_form_row">
+	<td class="rr_form_heading rr_required">Rating</td>
+	<td class="rr_form_input">
+		<span class="form-err"></span>
+		<div class="rr_stars_container">
+			<span class="rr_star glyphicon glyphicon-star-empty" id="rr_star_1"></span>
+			<span class="rr_star glyphicon glyphicon-star-empty" id="rr_star_2"></span>
+			<span class="rr_star glyphicon glyphicon-star-empty" id="rr_star_3"></span>
+			<span class="rr_star glyphicon glyphicon-star-empty" id="rr_star_4"></span>
+			<span class="rr_star glyphicon glyphicon-star-empty" id="rr_star_5"></span>
+		</div>
+	</td>
+</tr>
+
+	<style>
+		.stars, .rr_star {
+			color: #ffaf00;
+		}
+	</style>
+		<tr class="rr_form_row">
+		<td class="rr_form_heading rr_required">
+			Review Content		</td>
+		<td class="rr_form_input">
+			<span class="form-err"></span>
+			<textarea class="rr_large_input" name="rText" rows="10"></textarea>
+		</td>
+	</tr>
+
+				<tr class="rr_form_row">
+					<td></td>
+					<td class="rr_form_input"><input id="submitReview" class="btn btn-success" type="submit" value="Submit Review"/></td>
+				</tr>
+			</table>
+		</form>
+				<script>
+			jQuery(function(){
+				if (jQuery(".rr_successful").is(":visible")) {
+
+					offsetOne = jQuery(".rr_successful").offset();
+					jQuery("html, body").animate({
+						scrollTop: (offsetOne.top - 400)
+					});
+				} else {
+					errorPresent = false;
+					jQuery(".form-err").each(function () {
+						if (this.innerHTML != ''){
+							errorPresent = true;
+						}
+					});
+					if (errorPresent) {
+
+						offsetTwo = jQuery(".form-err.shown").offset();
+						jQuery("html, body").animate({
+							scrollTop: (offsetTwo.top + 200)
+						});
+					}
+				}
+			});
+		</script>
+	                                </div>
+                            </div>
+
+
+                            <script>
+                                $('#toggle-review-form').click(function(){
+                                    $('.add-new-review-form').slideToggle('fast');
+                                });
+                            </script>
+                        </div>
+                    </div>
+                    
+
+
+                     <div class="testimonial_group"> 	<div class="full-testimonial" itemprop="review" itemscope itemtype="http://schema.org/Review">
+		<div class="review-head">
+
+		<div class="review-info">
+		<span class="stars">
+			<img src="/wp-content/themes/wagoncore/img/stars/star-full.png"><img src="/wp-content/themes/wagoncore/img/stars/star-full.png"><img src="/wp-content/themes/wagoncore/img/stars/star-full.png"><img src="/wp-content/themes/wagoncore/img/stars/star-full.png"><img src="/wp-content/themes/wagoncore/img/stars/star-empty.png">		</span>
+		<span style="display: inline-block;">
+			<h5 class="rr_title">Affirmative</h5>
+		</span>
+		<div class="clear"></div>
+		<span itemprop="itemReviewed" itemscope itemtype="http://schema.org/Product">
+		<div class="rr_review_post_id" itemprop="name" style="display:none;">
+			<a href="https://themewagon.com/themes/free-responsive-html5-bootstrap-blogging-template/">
+				Massively - Free Responsive Blogging HTML5 Bootstrap Template			</a>
+		</div>
+
+			<div class="clear"></div>
+	</span>
+	
+	<div class="review-by-on">
+
+	<span class="rr_review_name" itemprop="author" itemscope itemtype="http://schema.org/Person">
+		By 
+		<span itemprop="name"> Ajay Bail </span>
+	</span>
+
+			on 
+		<span class="rr_date"><meta itemprop="datePublished" content="2018-04-30 04:27:42">
+			<time datetime="April 30, 2018">
+				April 30, 2018			</time>
+		</span>
+		</div>
+	<!--/end review-by-on -->
+
+			<div style="display:none;" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+			<span itemprop="ratingValue">
+				4
+			</span>
+			<span itemprop="bestRating">
+				5
+			</span>
+			<span itemprop="worstRating">
+				1
+			</span>
+		</div>
+
+
+						</div> <!-- close .review-info -->
+			</div> <!-- close .review-head -->
+
+		
+
+		<div class="clear"></div>
+
+		<div class="rr_review_text">
+			<span itemprop="reviewBody">This one is amazing. code quality is also good.</span></div>
+			<div class="clear"></div>
+		</div>
+					</div>
+				<div class="clear"></div>
+					<style>
+		.stars, .rr_star {
+			color: #ffaf00;
+		}
+	</style>
+	
+                </div>
+
+
+                <div class="comment sidebar-box">
+                    
+<div id="comments" class="comments-area">
+
+			<h2 class="comments-title">
+			3 thoughts on &ldquo;Massively&rdquo;		</h2>
+
+		
+		<ol class="comment-list">
+					<li id="comment-19962" class="comment even thread-even depth-1 parent">
+			<article id="div-comment-19962" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=" data-lazy-type="image" data-lazy-src='https://secure.gravatar.com/avatar/653a2fbaddc1b00c181e55a62afbca48?s=42&#038;d=wavatar&#038;r=g' data-lazy-srcset='https://secure.gravatar.com/avatar/653a2fbaddc1b00c181e55a62afbca48?s=84&amp;d=wavatar&amp;r=g 2x' class='lazy lazy-hidden avatar avatar-42 photo' height='42' width='42' /><noscript><img alt='' src='https://secure.gravatar.com/avatar/653a2fbaddc1b00c181e55a62afbca48?s=42&#038;d=wavatar&#038;r=g' srcset='https://secure.gravatar.com/avatar/653a2fbaddc1b00c181e55a62afbca48?s=84&amp;d=wavatar&amp;r=g 2x' class='avatar avatar-42 photo' height='42' width='42' /></noscript>						<b class="fn">D.O.</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://themewagon.com/themes/free-responsive-html5-bootstrap-blogging-template/#comment-19962">
+							<time datetime="2018-03-11T00:47:04+00:00">
+								March 11, 2018 at 12:47 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>A very shiny template.</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://themewagon.com/themes/free-responsive-html5-bootstrap-blogging-template/?replytocom=19962#respond' onclick='return addComment.moveForm( "div-comment-19962", "19962", "respond", "36447" )' aria-label='Reply to D.O.'>Reply</a></div>			</article><!-- .comment-body -->
+<ol class="children">
+		<li id="comment-19969" class="comment byuser comment-author-sadiq odd alt depth-2">
+			<article id="div-comment-19969" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=" data-lazy-type="image" data-lazy-src='https://secure.gravatar.com/avatar/385c608e9e2ff4f1b8d96d270d28eee4?s=42&#038;d=wavatar&#038;r=g' data-lazy-srcset='https://secure.gravatar.com/avatar/385c608e9e2ff4f1b8d96d270d28eee4?s=84&amp;d=wavatar&amp;r=g 2x' class='lazy lazy-hidden avatar avatar-42 photo' height='42' width='42' /><noscript><img alt='' src='https://secure.gravatar.com/avatar/385c608e9e2ff4f1b8d96d270d28eee4?s=42&#038;d=wavatar&#038;r=g' srcset='https://secure.gravatar.com/avatar/385c608e9e2ff4f1b8d96d270d28eee4?s=84&amp;d=wavatar&amp;r=g 2x' class='avatar avatar-42 photo' height='42' width='42' /></noscript>						<b class="fn">Sadiq Ahmad</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://themewagon.com/themes/free-responsive-html5-bootstrap-blogging-template/#comment-19969">
+							<time datetime="2018-03-11T10:20:50+00:00">
+								March 11, 2018 at 10:20 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Thank you</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ol><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-14358" class="comment even thread-odd thread-alt depth-1">
+			<article id="div-comment-14358" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs=" data-lazy-type="image" data-lazy-src='https://secure.gravatar.com/avatar/5269e446ee4093e38f765c67de4d4a09?s=42&#038;d=wavatar&#038;r=g' data-lazy-srcset='https://secure.gravatar.com/avatar/5269e446ee4093e38f765c67de4d4a09?s=84&amp;d=wavatar&amp;r=g 2x' class='lazy lazy-hidden avatar avatar-42 photo' height='42' width='42' /><noscript><img alt='' src='https://secure.gravatar.com/avatar/5269e446ee4093e38f765c67de4d4a09?s=42&#038;d=wavatar&#038;r=g' srcset='https://secure.gravatar.com/avatar/5269e446ee4093e38f765c67de4d4a09?s=84&amp;d=wavatar&amp;r=g 2x' class='avatar avatar-42 photo' height='42' width='42' /></noscript>						<b class="fn">sahdfoa</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://themewagon.com/themes/free-responsive-html5-bootstrap-blogging-template/#comment-14358">
+							<time datetime="2017-08-19T08:45:50+00:00">
+								August 19, 2017 at 8:45 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>good for testing</p>
+				</div><!-- .comment-content -->
+
+				<div class="reply"><a rel='nofollow' class='comment-reply-link' href='https://themewagon.com/themes/free-responsive-html5-bootstrap-blogging-template/?replytocom=14358#respond' onclick='return addComment.moveForm( "div-comment-14358", "14358", "respond", "36447" )' aria-label='Reply to sahdfoa'>Reply</a></div>			</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+		
+	
+	
+		<div id="respond" class="comment-respond">
+		<h2 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/themes/free-responsive-html5-bootstrap-blogging-template/#respond" style="display:none;">Cancel reply</a></small></h2>			<form action="https://themewagon.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="url" value="" size="30" maxlength="200" /></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='36447' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="4632c161f7" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="19"/></p>			</form>
+			</div><!-- #respond -->
+	
+</div><!-- .comments-area -->
+                </div>
+
+
+
+
+            </div><!--/col-md-8-->
+
+            <div class="col-md-4">
+                <div class="item-purchase-box">
+                    <div class="item-preview-btn-wrap clearfix">
+
+                    <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+    <span style="display: none" itemprop="priceCurrency" content="USD">$</span>
+    <span style="display: none" itemprop="price" content="0.00">0.00</span>
+    <link itemprop="availability" href="http://schema.org/InStock" />
+</div>
+
+
+
+<div>
+    <p><b>Get it directly to your inbox for FREE</b></p>
+</div>
+
+<div class="download_form_wrap">
+
+
+    <form id="free_download_form" action="download_by_email_submit" method="get" accept-charset="utf-8">
+    
+
+        <input id="uemail" class="form-control" type="email" name="uemail" placeholder="Enter your email address" autofocus required>
+
+        <div class="form-group" style="margin-bottom: 0;">
+            <input id="free_download_subscribed" style="margin-top: 15px;margin-bottom: 10px;" type="checkbox" name="free_download_subscribed" checked >
+            Send me new free templates &amp; updates
+        </div>
+
+        <div id="download_feedback">
+            
+        </div>
+
+        <div class="form-group" style="margin-bottom: 10px;">
+            <input id="getDownloadLinkbtn" type="submit"  class="btn btn-default btn-download btn-block download_btn_big" value="Get Download Link">
+        </div>
+
+    </form>
+
+    <div>
+            </div>
+
+</div>
+<!--/email to download-->
+
+
+
+
+<script>
+
+var getDownloadLinkbtn = $("#getDownloadLinkbtn");
+
+$("#free_download_form").on('submit', function(e){
+
+    e.preventDefault();
+
+
+    getDownloadLinkbtn.val("Sending Link...").prop("disabled", true);
+
+
+    var formData = {
+        item_id : "36447",
+        uemail: $("#uemail").val(),
+        subscribed: $("#free_download_subscribed").is(":checked"),
+        action: 'send_download_link_2016'
+    };
+    
+    var ajax_url = '/wp-admin/admin-ajax.php';
+
+    $.post(ajax_url, formData, function(response) {
+        
+        getDownloadLinkbtn.val("Send Link Again").prop("disabled", false);
+
+        var data = $.parseJSON(response);
+        if(data.status) {
+            
+
+            if (typeof ga !== 'undefined') {
+                //ga('send', 'pageview', '/thank-you-for-downloading');
+
+                ga('send', {
+                  hitType: 'event',
+                  eventCategory: 'Download',
+                  eventAction: 'Attempt'
+                });
+            }
+    
+            $("#download_feedback").html('<div class="alert alert-'+data.status+'"><strong>&#x2714; </strong>'+data.msg+'</div>');
+
+        } else {
+            $("#download_feedback").html('<div class="alert alert-danger"><strong>Error! </strong>Please contact support.</div>');
+        }
+    });
+
+
+    return false;
+
+
+});
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+                    <!--/col-sm-6-->
+                </div>
+
+                    
+                </div>
+
+
+                <aside class="theme-sidebar">
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+<div class="sidebar-box">
+		<div class="row">
+			<div class="col-xs-6">
+				<b style="font-size: 14px;">Editor's Pick</b>
+			</div>
+			<div class="col-xs-6 text-right">
+				<a href="/theme-categories/premium-templates/?ref=single_theme_sidebar">Show More &raquo;</a>
+			</div>
+
+		</div>
+		<hr/>
+		<div class="row">
+			                 	
+
+					<div class="col-lg-12 col-md-12 col-sm-6 col-xs-12">
+					    <a class="theme-card-anchor" href="https://themewagon.com/themes/sparrow/?ref=single_theme_sidebar" title="Sparrow - Turn your project from good to remarkable " >
+					        <section class="card card-themes premium">
+
+					            
+					            <figure>
+					                					                    <img width="336" height="206" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/04/sparrow_preview_image_v1.0.0-30x18.jpg" data-lazy-type="image" data-lazy-src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/04/sparrow_preview_image_v1.0.0-336x206.jpg" class="lazy lazy-hidden img-responsive z-hover wp-image-56766 wp-post-image" alt="" data-lazy-srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/04/sparrow_preview_image_v1.0.0-336x206.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/04/sparrow_preview_image_v1.0.0-239x146.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/04/sparrow_preview_image_v1.0.0-30x18.jpg 30w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/04/sparrow_preview_image_v1.0.0.jpg 750w" sizes="(max-width: 336px) 100vw, 336px" /><noscript><img width="336" height="206" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/04/sparrow_preview_image_v1.0.0-336x206.jpg" class="img-responsive z-hover wp-image-56766 wp-post-image" alt="" srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/04/sparrow_preview_image_v1.0.0-336x206.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/04/sparrow_preview_image_v1.0.0-239x146.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/04/sparrow_preview_image_v1.0.0-30x18.jpg 30w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/04/sparrow_preview_image_v1.0.0.jpg 750w" sizes="(max-width: 336px) 100vw, 336px" /></noscript>					                					            </figure>
+
+					            <header>
+					                <div class="pull-right tags item_price">
+					                    <span>
+					                        $79					                    </span>
+					                </div>
+					                <h2>Sparrow - Turn your project from good to remarkable 
+					                        <img class="qualitycheck" src="/wp-content/themes/wagoncore/img/check.png" alt="" data-toggle="tooltip" title="<strong>Quality Checked</strong> <br/> ThemeWagon confirmed this template works on all modern browsers &amp; screen sizes and has error free code.">
+					                </h2>
+
+					            </header></section>
+					    </a>
+
+					</div>
+                
+                                 	
+
+					<div class="col-lg-12 col-md-12 col-sm-6 col-xs-12">
+					    <a class="theme-card-anchor" href="https://themewagon.com/themes/reign-pro-premium-corporate-agency-html5-template/?ref=single_theme_sidebar" title="Reign Pro - Premium Corporate Agency HTML5 Template" >
+					        <section class="card card-themes premium">
+
+					            
+					            <figure>
+					                					                    <img width="336" height="206" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2015/08/Preview-2-336x206.jpg" class="img-responsive z-hover wp-image-1177 wp-post-image" alt="Premium Corporate Agency HTML5 Template" srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2015/08/Preview-2-336x206.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2015/08/Preview-2-239x146.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2015/08/Preview-2-30x18.jpg 30w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2015/08/Preview-2.jpg 750w" sizes="(max-width: 336px) 100vw, 336px" />					                					            </figure>
+
+					            <header>
+					                <div class="pull-right tags item_price">
+					                    <span>
+					                        $16					                    </span>
+					                </div>
+					                <h2>Reign Pro - Premium Corporate Agency HTML5 Template
+					                    					                </h2>
+
+					            </header></section>
+					    </a>
+
+					</div>
+                
+                                 	
+
+					<div class="col-lg-12 col-md-12 col-sm-6 col-xs-12">
+					    <a class="theme-card-anchor" href="https://themewagon.com/themes/elixir-elegant-html5-bootstrap-template-consultancy-agency-website/?ref=single_theme_sidebar" title="Elixir - HTML5 Bootstrap 4 Template for Agency Website" >
+					        <section class="card card-themes premium">
+
+					            
+					            <figure>
+					                					                    <img width="336" height="206" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2016/10/elixir-ii-30x18.jpg" data-lazy-type="image" data-lazy-src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2016/10/elixir-ii-336x206.jpg" class="lazy lazy-hidden img-responsive z-hover wp-image-48583 wp-post-image" alt="" data-lazy-srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2016/10/elixir-ii-336x206.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2016/10/elixir-ii-239x146.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2016/10/elixir-ii-30x18.jpg 30w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2016/10/elixir-ii.jpg 750w" sizes="(max-width: 336px) 100vw, 336px" /><noscript><img width="336" height="206" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2016/10/elixir-ii-336x206.jpg" class="img-responsive z-hover wp-image-48583 wp-post-image" alt="" srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2016/10/elixir-ii-336x206.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2016/10/elixir-ii-239x146.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2016/10/elixir-ii-30x18.jpg 30w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2016/10/elixir-ii.jpg 750w" sizes="(max-width: 336px) 100vw, 336px" /></noscript>					                					            </figure>
+
+					            <header>
+					                <div class="pull-right tags item_price">
+					                    <span>
+					                        $39					                    </span>
+					                </div>
+					                <h2>Elixir - HTML5 Bootstrap 4 Template for Agency Website
+					                        <img class="qualitycheck" src="/wp-content/themes/wagoncore/img/check.png" alt="" data-toggle="tooltip" title="<strong>Quality Checked</strong> <br/> ThemeWagon confirmed this template works on all modern browsers &amp; screen sizes and has error free code.">
+					                </h2>
+
+					            </header></section>
+					    </a>
+
+					</div>
+                
+                                 	
+
+					<div class="col-lg-12 col-md-12 col-sm-6 col-xs-12">
+					    <a class="theme-card-anchor" href="https://themewagon.com/themes/bootstrap-4-premium-interior-design-template-freya/?ref=single_theme_sidebar" title="Freya - Interior Design Agency Website Template" >
+					        <section class="card card-themes premium">
+
+					            
+					            <figure>
+					                					                    <img width="336" height="206" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/12/freya-30x18.jpg" data-lazy-type="image" data-lazy-src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/12/freya-336x206.jpg" class="lazy lazy-hidden img-responsive z-hover wp-image-49317 wp-post-image" alt="" data-lazy-srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/12/freya-336x206.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/12/freya-239x146.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/12/freya-30x18.jpg 30w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/12/freya.jpg 750w" sizes="(max-width: 336px) 100vw, 336px" /><noscript><img width="336" height="206" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/12/freya-336x206.jpg" class="img-responsive z-hover wp-image-49317 wp-post-image" alt="" srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/12/freya-336x206.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/12/freya-239x146.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/12/freya-30x18.jpg 30w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/12/freya.jpg 750w" sizes="(max-width: 336px) 100vw, 336px" /></noscript>					                					            </figure>
+
+					            <header>
+					                <div class="pull-right tags item_price">
+					                    <span>
+					                        $39					                    </span>
+					                </div>
+					                <h2>Freya - Interior Design Agency Website Template
+					                        <img class="qualitycheck" src="/wp-content/themes/wagoncore/img/check.png" alt="" data-toggle="tooltip" title="<strong>Quality Checked</strong> <br/> ThemeWagon confirmed this template works on all modern browsers &amp; screen sizes and has error free code.">
+					                </h2>
+
+					            </header></section>
+					    </a>
+
+					</div>
+                
+                                 	
+
+					<div class="col-lg-12 col-md-12 col-sm-6 col-xs-12">
+					    <a class="theme-card-anchor" href="https://themewagon.com/themes/posh-html5-bootstrap-4-template/?ref=single_theme_sidebar" title="Posh - A Revolutionary New Way of Creating Websites" >
+					        <section class="card card-themes premium">
+
+					            
+					            <figure>
+					                					                    <img src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/08/posh-thumb-v1.1-30x18.gif" data-lazy-type="image" data-lazy-src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/08/posh-thumb-v1.1.gif" class="lazy lazy-hidden img-responsive z-hover" alt="Image for Posh">
+					                					            </figure>
+
+					            <header>
+					                <div class="pull-right tags item_price">
+					                    <span>
+					                        $69					                    </span>
+					                </div>
+					                <h2>Posh - A Revolutionary New Way of Creating Websites
+					                        <img class="qualitycheck" src="/wp-content/themes/wagoncore/img/check.png" alt="" data-toggle="tooltip" title="<strong>Quality Checked</strong> <br/> ThemeWagon confirmed this template works on all modern browsers &amp; screen sizes and has error free code.">
+					                </h2>
+
+					            </header></section>
+					    </a>
+
+					</div>
+                
+                                 	
+
+					<div class="col-lg-12 col-md-12 col-sm-6 col-xs-12">
+					    <a class="theme-card-anchor" href="https://themewagon.com/themes/mega-discount-bundle/?ref=single_theme_sidebar" title="Mega Discount - HTML5 Bootstrap Templates Mega Discount Bundle" >
+					        <section class="card card-themes premium">
+
+					            
+					            <figure>
+					                					                    <img width="336" height="206" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/03/mega_bundle_offer_20161-336x206.jpg" class="img-responsive z-hover wp-image-33863 wp-post-image" alt="Mega Discount Bundle" srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/03/mega_bundle_offer_20161-336x206.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/03/mega_bundle_offer_20161-239x146.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/03/mega_bundle_offer_20161-30x18.jpg 30w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/03/mega_bundle_offer_20161.jpg 750w" sizes="(max-width: 336px) 100vw, 336px" />					                					            </figure>
+
+					            <header>
+					                <div class="pull-right tags item_price">
+					                    <span>
+					                        $29					                    </span>
+					                </div>
+					                <h2>Mega Discount - HTML5 Bootstrap Templates Mega Discount Bundle
+					                    					                </h2>
+
+					            </header></section>
+					    </a>
+
+					</div>
+                
+                	    </div><!--/row-->
+	</div><!--/sidebar-box-->
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="rating-information sidebar-box">
+		<div class="row">
+			<div class="col-sm-5">
+				<h4>Downloads</h4>
+			</div>
+			<div class="col-sm-7">
+				<span style="font-size:1.1em">
+						3133				</span>
+			</div>
+		</div>
+	</div>
+	
+		
+
+
+
+	
+
+
+	<div class="theme-information sidebar-box">
+		<div class="row">
+			<div class="col-sm-5">
+				<h5>Last Update</h5>
+			</div>
+			<div class="col-sm-7">
+				<p>
+				January 22, 2018				</p>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-5">
+				<h5>Version</h5>
+			</div>
+			<div class="col-sm-7">
+				<p>1.0</p>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-5">
+				<h5>Compatible Browsers</h5>
+			</div>
+			<div class="col-sm-7">
+				<p>IE9+, Chrome, Firefox, Safari, Opera</p>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-5">
+				<h5>Technology Used</h5>
+			</div>
+			<div class="col-sm-7">
+				<p>HTML 5, CSS 3, Bootstrap 3, JS, jQuery</p>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-5">
+				<h5>Categories</h5>
+			</div>
+			<div class="col-sm-7">
+				<span><span class="single-theme-tax"><a href="https://themewagon.com/theme-categories/blog/" rel="tag">Blog</a></span></span>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-5">
+				<h5>Tags</h5>
+			</div>
+			<div class="col-sm-7">
+				<span><span class="single-theme-tax"><a href="https://themewagon.com/theme_tag/clean/" rel="tag">clean</a>,<a href="https://themewagon.com/theme_tag/color-scheme/" rel="tag">color scheme</a>,<a href="https://themewagon.com/theme_tag/free/" rel="tag">Free HTML5</a>,<a href="https://themewagon.com/theme_tag/ghost-button/" rel="tag">ghost button</a>,<a href="https://themewagon.com/theme_tag/html5/" rel="tag">HTML5</a>,<a href="https://themewagon.com/theme_tag/open-source/" rel="tag">open source</a>,<a href="https://themewagon.com/theme_tag/parallax/" rel="tag">parallax</a>,<a href="https://themewagon.com/theme_tag/personal/" rel="tag">personal</a>,<a href="https://themewagon.com/theme_tag/responsive/" rel="tag">responsive</a>,<a href="https://themewagon.com/theme_tag/smooth-scroll/" rel="tag">smooth scroll</a></span></span>
+			</div>
+		</div>
+		 
+	</div>
+
+
+	<div class="rating-information sidebar-box">
+		<div class="row">
+			<div class="col-sm-5">
+				<h4>Author</h4>
+			</div>
+			<div class="col-sm-7">
+				<a href="https://themewagon.com/author/html5up/" title="Posts by HTML5 Up" rel="author">HTML5 Up</a> 
+				<!-- <span style="font-size:1.1em">
+					<a target="_blank" href="http://html5up.net/">
+						HTML5 Up					</a>
+				</span> -->
+			</div>
+		</div>
+	</div>
+
+	<div id="last"></div>
+
+</aside>
+            </div><!--col-md-4-->
+        
+        </div><!-- end template description container-->
+
+    </div>
+</section>
+
+
+
+</div><!--//schema product-->
+
+
+    <!-- <div class="page-section home-premium-templates" style="background-color: #F5F5F5;margin-top: -23px;padding-top: 55px;">
+        <div class="container">
+                    </div>
+    </div> -->
+
+
+    
+    <div class="related-templated">
+        <div class="container">
+
+            <h2 class="text-center">Related Templates</h2>
+
+            <div class="row">
+                
+            
+                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 theme-card-wrap">
+    <a class="theme-card-anchor" href="https://themewagon.com/themes/free-html5-blog-template/" title="Blogger - Free HTML5 Blog Template for Professional Blog Sites" >
+	    
+			    
+        <section class="card card-themes free">
+
+
+            
+            <figure>
+                                    <img width="239" height="146" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Blogger-free-HTML5-blog-template-30x18.jpg" data-lazy-type="image" data-lazy-src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Blogger-free-HTML5-blog-template-239x146.jpg" class="lazy lazy-hidden img-responsive z-hover wp-image-60543 wp-post-image" alt="free HTML5 blog template" data-lazy-srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Blogger-free-HTML5-blog-template-239x146.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Blogger-free-HTML5-blog-template-336x206.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Blogger-free-HTML5-blog-template-30x18.jpg 30w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Blogger-free-HTML5-blog-template.jpg 750w" sizes="(max-width: 239px) 100vw, 239px" /><noscript><img width="239" height="146" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Blogger-free-HTML5-blog-template-239x146.jpg" class="img-responsive z-hover wp-image-60543 wp-post-image" alt="free HTML5 blog template" srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Blogger-free-HTML5-blog-template-239x146.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Blogger-free-HTML5-blog-template-336x206.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Blogger-free-HTML5-blog-template-30x18.jpg 30w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Blogger-free-HTML5-blog-template.jpg 750w" sizes="(max-width: 239px) 100vw, 239px" /></noscript>                            </figure>
+
+            <header>
+                <h2>Blogger</h2>
+            </header>
+            <div class="card-body">
+                <p>Free HTML5 Blog Template for Professional Blog Sites</p>
+            </div>
+        </section>
+    </a>
+
+
+    <a target="_blank" href="http://demo.themewagon.com/preview/free-html5-blog-template" class="live"> live Preview <i class="ion-android-open" aria-hidden="true"></i></a>
+
+    
+    <script>
+        ga('ec:addImpression', {
+          'id': '60540',
+          'name': 'Blogger',
+          'category': 'Free Templates'
+        });
+    </script>
+
+</div><!-- col -->
+                
+                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 theme-card-wrap">
+    <a class="theme-card-anchor" href="https://themewagon.com/themes/free-bootstrap-blog-template-creative/" title="Avision - HTML5 Free Bootstrap Blog Template for Outstanding Websites" >
+	    
+			    
+        <section class="card card-themes free">
+
+
+            
+            <figure>
+                                    <img width="239" height="146" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Avision-free-bootstrap-blog-template-30x18.jpg" data-lazy-type="image" data-lazy-src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Avision-free-bootstrap-blog-template-239x146.jpg" class="lazy lazy-hidden img-responsive z-hover wp-image-60221 wp-post-image" alt="free bootstrap blog template" data-lazy-srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Avision-free-bootstrap-blog-template-239x146.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Avision-free-bootstrap-blog-template-336x206.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Avision-free-bootstrap-blog-template-30x18.jpg 30w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Avision-free-bootstrap-blog-template.jpg 750w" sizes="(max-width: 239px) 100vw, 239px" /><noscript><img width="239" height="146" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Avision-free-bootstrap-blog-template-239x146.jpg" class="img-responsive z-hover wp-image-60221 wp-post-image" alt="free bootstrap blog template" srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Avision-free-bootstrap-blog-template-239x146.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Avision-free-bootstrap-blog-template-336x206.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Avision-free-bootstrap-blog-template-30x18.jpg 30w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Avision-free-bootstrap-blog-template.jpg 750w" sizes="(max-width: 239px) 100vw, 239px" /></noscript>                            </figure>
+
+            <header>
+                <h2>Avision</h2>
+            </header>
+            <div class="card-body">
+                <p>HTML5 Free Bootstrap Blog Template for Outstanding Websites</p>
+            </div>
+        </section>
+    </a>
+
+
+    <a target="_blank" href="http://demo.themewagon.com/preview/free-bootstrap-blog-template-creative" class="live"> live Preview <i class="ion-android-open" aria-hidden="true"></i></a>
+
+    
+    <script>
+        ga('ec:addImpression', {
+          'id': '60180',
+          'name': 'Avision',
+          'category': 'Free Templates'
+        });
+    </script>
+
+</div><!-- col -->
+                
+                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 theme-card-wrap">
+    <a class="theme-card-anchor" href="https://themewagon.com/themes/free-bootstrap-blog-website-template/" title="Original - Clean and Minimal Free Bootstrap Blog Website Template" >
+	    
+			    
+        <section class="card card-themes free">
+
+
+            
+            <figure>
+                                    <img width="239" height="146" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Original-Free-Bootstrap-Blog-Website-Template-30x18.jpg" data-lazy-type="image" data-lazy-src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Original-Free-Bootstrap-Blog-Website-Template-239x146.jpg" class="lazy lazy-hidden img-responsive z-hover wp-image-59893 wp-post-image" alt="Free Bootstrap Blog Website Template" data-lazy-srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Original-Free-Bootstrap-Blog-Website-Template-239x146.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Original-Free-Bootstrap-Blog-Website-Template-336x206.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Original-Free-Bootstrap-Blog-Website-Template-30x18.jpg 30w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Original-Free-Bootstrap-Blog-Website-Template.jpg 750w" sizes="(max-width: 239px) 100vw, 239px" /><noscript><img width="239" height="146" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Original-Free-Bootstrap-Blog-Website-Template-239x146.jpg" class="img-responsive z-hover wp-image-59893 wp-post-image" alt="Free Bootstrap Blog Website Template" srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Original-Free-Bootstrap-Blog-Website-Template-239x146.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Original-Free-Bootstrap-Blog-Website-Template-336x206.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Original-Free-Bootstrap-Blog-Website-Template-30x18.jpg 30w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/07/Original-Free-Bootstrap-Blog-Website-Template.jpg 750w" sizes="(max-width: 239px) 100vw, 239px" /></noscript>                            </figure>
+
+            <header>
+                <h2>Original</h2>
+            </header>
+            <div class="card-body">
+                <p>Clean and Minimal Free Bootstrap Blog Website Template</p>
+            </div>
+        </section>
+    </a>
+
+
+    <a target="_blank" href="http://demo.themewagon.com/preview/free-bootstrap-blog-website-template" class="live"> live Preview <i class="ion-android-open" aria-hidden="true"></i></a>
+
+    
+    <script>
+        ga('ec:addImpression', {
+          'id': '59888',
+          'name': 'Original',
+          'category': 'Free Templates'
+        });
+    </script>
+
+</div><!-- col -->
+                
+                <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 theme-card-wrap">
+    <a class="theme-card-anchor" href="https://themewagon.com/themes/free-bootstrap-blog-theme/" title="Stuff - Multi-page, Content-focused, Free Bootstrap Blog Theme" >
+	    
+			    
+        <section class="card card-themes free">
+
+
+            
+            <figure>
+                                    <img width="239" height="146" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/05/Stuff-free-Bootstrap-blog-theme-30x18.jpg" data-lazy-type="image" data-lazy-src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/05/Stuff-free-Bootstrap-blog-theme-239x146.jpg" class="lazy lazy-hidden img-responsive z-hover wp-image-58637 wp-post-image" alt="free Bootstrap blog theme" data-lazy-srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/05/Stuff-free-Bootstrap-blog-theme-239x146.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/05/Stuff-free-Bootstrap-blog-theme-336x206.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/05/Stuff-free-Bootstrap-blog-theme-30x18.jpg 30w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/05/Stuff-free-Bootstrap-blog-theme.jpg 750w" sizes="(max-width: 239px) 100vw, 239px" /><noscript><img width="239" height="146" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/05/Stuff-free-Bootstrap-blog-theme-239x146.jpg" class="img-responsive z-hover wp-image-58637 wp-post-image" alt="free Bootstrap blog theme" srcset="https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/05/Stuff-free-Bootstrap-blog-theme-239x146.jpg 239w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/05/Stuff-free-Bootstrap-blog-theme-336x206.jpg 336w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/05/Stuff-free-Bootstrap-blog-theme-30x18.jpg 30w, https://d2zav2bjdlctd5.cloudfront.net/uploads/2018/05/Stuff-free-Bootstrap-blog-theme.jpg 750w" sizes="(max-width: 239px) 100vw, 239px" /></noscript>                            </figure>
+
+            <header>
+                <h2>Stuff</h2>
+            </header>
+            <div class="card-body">
+                <p>Multi-page, Content-focused, Free Bootstrap Blog Theme</p>
+            </div>
+        </section>
+    </a>
+
+
+    <a target="_blank" href="http://demo.themewagon.com/preview/free-bootstrap-blog-theme" class="live"> live Preview <i class="ion-android-open" aria-hidden="true"></i></a>
+
+    
+    <script>
+        ga('ec:addImpression', {
+          'id': '58632',
+          'name': 'Stuff',
+          'category': 'Free Templates'
+        });
+    </script>
+
+</div><!-- col -->
+                
+            </div><!--/row-->
+
+
+            <div class="text-center">
+                <a class="btn btn-lg btn-next" href="https://themewagon.com/themes/" aria-label="Previous">   More <span style="position: relative; top: 1px;" class="ion-ios-arrow-forward"></span>
+                </a>
+            </div>
+
+
+        </div><!-- container -->
+    </div><!-- related-templated -->
+
+
+<script>
+    ga('ec:setAction', 'detail');
+</script>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+            <script type="text/javascript">
+        jQuery(document).ready(function(){
+
+            jQuery(document).pjax('a.pjax, .header-second-menu a', '#pjax-container', {
+                timeout: 2000
+            });
+
+
+            jQuery(document).on('pjax:send', function() {
+                jQuery('#pjax_loading').show();
+            });
+            jQuery(document).on('pjax:complete', function(xhr, textStatus, options) {
+                console.log(options);
+                jQuery('#pjax_loading').hide();
+                jQuery(document).scrollTop(2);
+            });
+
+        });
+    </script>
+    
+    <div id="last"></div>
+
+    <footer id="footer">
+        <div class="container">
+            <div class="row">
+                <section class="col-md-3 col-sm-6">
+                    <h4>About ThemeWagon</h4>
+                    <p style="font-size: 14px; line-height: 19px;">ThemeWagon offers an wide array of category-oriented Free and Premium Responsive Bootstrap HTML Templates and WordPress Themes that covers all kinds of templates or themes a developer may need!</p>
+                    <a href="https://themewagon.com/"><img class="footer-logo hidden-sm hidden-xs" alt="ThemeWaon" src="https://d2zav2bjdlctd5.cloudfront.net/themes/themewagon/img/logo-white.png"></a>
+                </section>
+                <section class="col-md-2 col-sm-6">
+
+                    <h4>Any Query?</h4>
+                    <ul class="footer-box-list">
+                        <li><a href="https://themewagon.com/themes">Free Templates</a></li>
+                        <li><a href="https://themewagon.com/contact/">Custom Templates</a></li>
+                        <li><a href="https://themewagon.com/terms-conditions/">Terms &amp; Conditions</a></li>
+                        <li><a href="https://themewagon.com/privacy-policy/">Privacy Policy</a></li>
+                        <li><a href="https://themewagon.com/blog">Articles</a></li>
+                        <li><a href="https://themewagon.com/about-theme-wagon/">About</a></li>
+                        <li><a href="https://themewagon.com/license/">License</a></li>
+                    </ul>
+                </section>
+
+                <section class="col-md-4 col-sm-6 text-center">
+                    <h4>We are Social</h4>
+                    <div class="social">
+                        <a class="facebook" href="https://www.facebook.com/themewagon" target="_blank"></a>
+                        <a class="twitter" href="https://twitter.com/themewagon" target="_blank"></a>
+                        <a class="gplus" href="https://www.google.com/+ThemewagonThemes" target="_blank"></a>
+                        <a class="pinterest" href="https://www.pinterest.com/themewagon/" target="_blank"></a>
+                    </div>
+
+
+
+                </section>
+                <section class="col-md-3">
+                    <p>
+                        <img class="img-responsive" src="https://d2zav2bjdlctd5.cloudfront.net/uploads/2016/02/bdg_secured_by_pp_2line.png" border="0" alt="Payments by PayPal">
+                    </p>
+                    <p>
+                        <img style="max-width: 163px; margin-top: 30px;" src="https://d2zav2bjdlctd5.cloudfront.net/themes/themewagon/img/outline.png" />
+                    </p>
+                </section>
+            </div><!-- row -->
+            <div class="copyright">
+                <div class="row">
+                    <div class="col-md-6">
+                        <p><a href="mailto:info@themewagon.com">info@themewagon.com</a></p>
+                    </div>
+                    <div class="col-md-6">
+                        <p class="text-right">&copy; 2018 <a href="http://themewagon.com/">ThemeWagon.com</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <div style="display: none;" id="pjax_loading"><i class="fa fa-spinner fa-spin"></i></div>
+
+
+    
+
+    <script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var edd_scripts = {"ajaxurl":"https:\/\/themewagon.com\/wp-admin\/admin-ajax.php","position_in_cart":"","has_purchase_links":"","already_in_cart_message":"You have already added this item to your cart","empty_cart_message":"Your cart is empty","loading":"Loading","select_option":"Please select an option","ajax_loader":"\/wp-content\/plugins\/easy-digital-downloads\/assets\/images\/loading.gif","is_checkout":"0","default_gateway":"stripe_checkout","redirect_to_checkout":"0","checkout_page":"https:\/\/themewagon.com\/checkout\/","permalinks":"1","quantities_enabled":"","taxes_enabled":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ratingsL10n = {"plugin_url":"https:\/\/themewagon.com\/wp-content\/plugins\/wp-postratings","ajax_url":"https:\/\/themewagon.com\/wp-admin\/admin-ajax.php","text_wait":"Please rate only 1 item at a time.","image":"stars_crystal","image_ext":"gif","max":"5","show_loading":"1","show_fading":"0","custom":"0"};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src="https://themewagon.com/wp-content/plugins/wp-postratings/images/stars_crystal/rating_over.gif";;
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var affwp_scripts = {"ajaxurl":"https:\/\/themewagon.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var us_script = {"ajaxurl":"https:\/\/themewagon.com\/wp-admin\/admin-ajax.php","tweet_via":"themewagon","success":"Great work! Your message was sent.","trying":"Trying to send email...","total_shares_text":"","facebook_height":"500","facebook_width":"900","twitter_height":"500","twitter_width":"900","googleplus_height":"500","googleplus_width":"900","delicious_height":"550","delicious_width":"550","stumble_height":"550","stumble_width":"550","linkedin_height":"550","linkedin_width":"550","pinterest_height":"320","pinterest_width":"720","buffer_height":"500","buffer_width":"900","reddit_height":"500","reddit_width":"900","vkontakte_height":"500","vkontakte_width":"900","printfriendly_height":"500","printfriendly_width":"1045","pocket_height":"500","pocket_width":"900","tumblr_height":"500","tumblr_width":"900","flipboard_height":"500","flipboard_width":"900","weibo_height":"500","weibo_width":"900","xing_height":"500","xing_width":"900","ok_height":"500","ok_width":"900","managewp_height":"500","managewp_width":"900","meneame_height":"500","meneame_width":"900","digg_height":"500","digg_width":"900","home_url":"https:\/\/themewagon.com","B":"B","M":"M","k":"k","nonce":"cc0bd05ea0","already_loved_message":"You have already loved this item.","error_message":"Sorry, there was a problem processing your request.","logged_in":"false","bitly":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BJLL_options = {"threshold":"100"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://themewagon.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js,wp-content/plugins/contact-form-7/includes/js/scripts.js,wp-content/plugins/easy-digital-downloads/assets/js/edd-ajax.min.js,wp-content/plugins/themewagon_extended/assets/js/pjax.min.js,wp-content/plugins/wp-postratings/js/postratings-js.js,wp-content/plugins/AffiliateWP/assets/js/jquery.cookie.min.js,wp-content/plugins/ultimate-social-deux/public/assets/js/min/us.script-min.js,wp-includes/js/jquery/jquery-migrate.min.js,wp-content/themes/wagoncore/js/framework.js,wp-content/themes/wagoncore/js/main.js,wp-content/plugins/bj-lazy-load/js/bj-lazy-load.min.js,wp-content/plugins/akismet/_inc/form.js,wp-includes/js/wp-embed.min.js&#038;ver=1529587573'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var affwp_debug_vars = {"integrations":{"edd":"Easy Digital Downloads"},"version":"2.0","currency":"USD"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var us_native_script = {"vkontakte_appid":"","facebook_appid":"376429102482150"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://themewagon.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/AffiliateWP/assets/js/tracking.min.js,wp-content/plugins/ultimate-social-deux/public/assets/js/min/us.native-min.js,wp-content/plugins/ultimate-social-deux/public/assets/js/min/jquery.magnific-popup-min.js,wp-content/plugins/ultimate-social-deux/public/assets/js/min/jquery.sticky-min.js,wp-content/plugins/ultimate-social-deux/public/assets/js/min/jquery.fittext-min.js,wp-content/plugins/ultimate-social-deux/public/assets/js/min/jquery.tooltipster-min.js,wp-content/plugins/rich-reviews/js/rich-reviews.min.js&#038;ver=1529587573'></script>
+<script>jQuery(document).ready(function($) {});</script>    
+    
+    <!-- google analytics tracking code -->
+    <script>
+        
+        ga('send', 'pageview');
+
+    </script>
+
+        
+    
+    <!-- Hotjar Tracking Code -->
+    <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:276128,hjsv:5};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+
+    
+
+
+    </body>
+</html>
