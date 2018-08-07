@@ -79,16 +79,28 @@
 
             <div class="content">
                 <div class="title m-b-md">
+<<<<<<< HEAD
                     Laravel de Blog
                 </div>
 
                 <div class="links">
 					<!--
+=======
+                </div>
+		<form method="POST" action="/input">
+		{{ csrf_field() }}
+		<input type="text" name="id">
+		<input type="password" name="pass">
+		<input type="submit">
+		</form>
+                <div class="links">
+>>>>>>> origin/test
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
+<<<<<<< HEAD
                 	-->
 					{{Html::link('/input', 'にゅうりょくふぉーむ')}}
 					{{Html::link('/login', 'ログイン')}}
@@ -99,3 +111,10 @@
         </div>
     </body>
 </html>
+=======
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+>>>>>>> origin/test

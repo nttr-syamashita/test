@@ -18,8 +18,11 @@ class CreateUsersTable extends Migration
             $table->string('name');
             $table->string('email')->unique();
             $table->string('password');
+<<<<<<< HEAD
 			$table->string('lang')->default('ja');
 			$table->string('timezone')->default('JST');
+=======
+>>>>>>> origin/test
             $table->rememberToken();
             $table->timestamps();
         });

@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 //phpだよ
 namespace App\Http\Controllers;
 
@@ -12,6 +13,13 @@ use Collective\Html\HtmlServiceProvider;
 use App\Http\Requests\PostRequest;
 use App\tb_blogs;
 
+=======
+ 
+namespace App\Http\Controllers;
+ 
+use Illuminate\Http\Request;
+ 
+>>>>>>> origin/test
 class FormController extends Controller
 {
  
@@ -22,7 +30,11 @@ class FormController extends Controller
      */
     public function input(Request $request)
     {
+<<<<<<< HEAD
         return view('input', ['id'=>$request->id], ['pass'=>$request->pass]);
+=======
+        return view('input',['id'=>$request->id],['pass'=>$request->pass]);
+>>>>>>> origin/test
     }
  
     /**
@@ -30,6 +42,7 @@ class FormController extends Controller
      *
      * @return string
      */
+<<<<<<< HEAD
     public function save(PostRequest $request)
     {
         return view('complete', ['subject'=>$request->subject], ['text'=>$request->text]);
@@ -95,3 +108,11 @@ class FormController extends Controller
         return $html;
     }
 }
+=======
+    public function save()
+    {
+        return view('form.complete');
+    }
+ 
+}
+>>>>>>> origin/test

@@ -1,7 +1,12 @@
 <?php
 
 return [
+<<<<<<< HEAD
 
+=======
+'timezone' => 'Asia/Tokyo',
+'locale' => 'ja',
+>>>>>>> origin/test
     /*
     |--------------------------------------------------------------------------
     | Application Name
@@ -65,7 +70,11 @@ return [
     |
     */
 
+<<<<<<< HEAD
     'timezone' => 'Asia/Tokyo',
+=======
+    'timezone' => 'UTC',
+>>>>>>> origin/test
 
     /*
     |--------------------------------------------------------------------------
@@ -78,7 +87,11 @@ return [
     |
     */
 
+<<<<<<< HEAD
     'locale' => 'ja',
+=======
+    'locale' => 'en',
+>>>>>>> origin/test
 
     /*
     |--------------------------------------------------------------------------
@@ -163,7 +176,10 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
+<<<<<<< HEAD
 		Collective\Html\HtmlServiceProvider::class,
+=======
+>>>>>>> origin/test
 
         /*
          * Package Service Providers...
@@ -207,10 +223,15 @@ return [
         'Eloquent' => Illuminate\Database\Eloquent\Model::class,
         'Event' => Illuminate\Support\Facades\Event::class,
         'File' => Illuminate\Support\Facades\File::class,
+<<<<<<< HEAD
 		'Form' => Collective\Html\FormFacade::class,
         'Gate' => Illuminate\Support\Facades\Gate::class,
         'Hash' => Illuminate\Support\Facades\Hash::class,
 		'Html' => Collective\Html\HtmlFacade::class,
+=======
+        'Gate' => Illuminate\Support\Facades\Gate::class,
+        'Hash' => Illuminate\Support\Facades\Hash::class,
+>>>>>>> origin/test
         'Lang' => Illuminate\Support\Facades\Lang::class,
         'Log' => Illuminate\Support\Facades\Log::class,
         'Mail' => Illuminate\Support\Facades\Mail::class,
